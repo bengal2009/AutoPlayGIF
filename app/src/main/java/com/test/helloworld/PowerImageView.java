@@ -164,7 +164,7 @@ private String  TAGSTR="PowerImgView";
      */
     private boolean playMovie(Canvas canvas) {
         long now = SystemClock.uptimeMillis();
-        Log.i(TAGSTR, "playMovie");
+//        Log.i(TAGSTR, "playMovie");
         if (mMovieStart == 0) {
             mMovieStart = now;
         }

@@ -1,5 +1,5 @@
 package com.test.helloworld;
-
+//http://blog.csdn.net/guolin_blog/article/details/11100315
 import android.os.Bundle;
 import android.app.Activity;
 import android.util.Log;
