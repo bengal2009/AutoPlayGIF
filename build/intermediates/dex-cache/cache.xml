@@ -2,25 +2,25 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\blin.CSAVAGENCIES\Desktop\androidsrc\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jar="C:\Users\Lin\AndroidStudioProjects\AutoPlayGIF\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="C:\Users\blin.CSAVAGENCIES\Desktop\androidsrc\HelloWorld\app\build\intermediates\pre-dexed\debug\classes-93331bb518c962a62dea14810e45b7a4b155b48f.jar" />
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Lin\AndroidStudioProjects\AutoPlayGIF\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-0e01c1384aff70b5665a757cc1fb498d3024fb30.jar" />
     </item>
     <item
-        jar="C:\Users\blin.CSAVAGENCIES\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jar="C:\Users\Lin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="C:\Users\blin.CSAVAGENCIES\Desktop\androidsrc\HelloWorld\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-cd04ad429fc3f99889a5cd14ff9657864d2c77eb.jar" />
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Lin\AndroidStudioProjects\AutoPlayGIF\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-cd8dbc18562acb3c482bd04ded41194e3aa851d8.jar" />
     </item>
     <item
-        jar="C:\Users\blin.CSAVAGENCIES\Desktop\androidsrc\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jar="C:\Users\Lin\AndroidStudioProjects\AutoPlayGIF\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="C:\Users\blin.CSAVAGENCIES\Desktop\androidsrc\HelloWorld\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-c438f853325563b9ae8b858dc84a0a55bfb1d5df.jar" />
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Lin\AndroidStudioProjects\AutoPlayGIF\app\build\intermediates\pre-dexed\debug\classes-cd78beaa384004745923ec3fc3319082aa699aee.jar" />
     </item>
 
 </items>
